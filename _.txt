@@ -1,0 +1,52 @@
+machine-learning-portfolio/
+│
+├── 01_data_loading/
+│   ├── notebooks/
+│   ├── scripts/
+│   └── README.md
+│
+├── 02_data_processing/
+│   ├── notebooks/
+│   ├── scripts/
+│   └── README.md
+│
+├── 03_exploratory_data_analysis/
+│   ├── notebooks/
+│   ├── scripts/
+│   └── README.md
+│
+├── 04_fundamentals/
+│   ├── linear_algebra/
+│   ├── calculus/
+│   ├── probability/
+│   └── README.md
+│
+├── 05_supervised_learning/
+│   ├── regression/
+│   ├── classification/
+│   ├── model_selection/
+│   └── README.md
+│
+├── 06_unsupervised_learning/
+│   ├── clustering/
+│   ├── dimensionality_reduction/
+│   └── README.md
+│
+├── 07_model_evaluation/
+│   ├── metrics/
+│   ├── cross_validation/
+│   └── README.md
+│
+├── project_house_price_prediction/
+│   ├── data/
+│   ├── notebooks/
+│   ├── src/
+│   └── README.md
+│
+├── project_customer_segmentation/
+│   ├── data/
+│   ├── notebooks/
+│   ├── src/
+│   └── README.md
+│
+└── README.md
