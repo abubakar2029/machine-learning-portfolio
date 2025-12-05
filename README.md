@@ -12,7 +12,7 @@ This repository contains my collection of notebooks and scripts during my journe
 
 ## 📁 Repository Structure
 
-- **[Data Loading](./01_data_loading/)**  
+- **[Data Loading](./01_data_loading_&_preparation/)**  
   Working with CSV, Excel, JSON, APIs, and datasets from common libraries.
 
 - **[Data Preprocessing](./02_data_processing/)**  
